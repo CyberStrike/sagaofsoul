@@ -34,7 +34,7 @@
 ._*
 .Spotlight-V100
 .Trashes
-.idea/
+.idea/*
 .htaccess
 ehthumbs.db
 Thumbs.db

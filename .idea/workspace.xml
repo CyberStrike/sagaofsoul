@@ -10,7 +10,7 @@
     <file path="/main.css" changelist="2b3ee278-2179-4c95-b938-9faa46899eb6" time="1379835929979" ignored="false" />
     <file path="/index.html" changelist="2b3ee278-2179-4c95-b938-9faa46899eb6" time="1379836138821" ignored="false" />
     <file path="/dummy.xml" changelist="2b3ee278-2179-4c95-b938-9faa46899eb6" time="1379824551184" ignored="false" />
-    <file path="/Dummy.txt" changelist="2b3ee278-2179-4c95-b938-9faa46899eb6" time="1379839655548" ignored="false" />
+    <file path="/Dummy.txt" changelist="2b3ee278-2179-4c95-b938-9faa46899eb6" time="1379839785488" ignored="false" />
     <file path="/.gitignore" changelist="2b3ee278-2179-4c95-b938-9faa46899eb6" time="1379839780413" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="6" selection-start="436" selection-end="436" vertical-scroll-proportion="0.9017341">
+            <state line="36" column="7" selection-start="430" selection-end="430" vertical-scroll-proportion="0.7543353">
               <folding />
             </state>
           </provider>
@@ -245,7 +245,11 @@
       <created>1379839688106</created>
       <updated>1379839688106</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update .gitignore">
+      <created>1379839793380</created>
+      <updated>1379839793380</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -407,7 +411,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="6" selection-start="436" selection-end="436" vertical-scroll-proportion="0.9017341">
+        <state line="36" column="7" selection-start="430" selection-end="430" vertical-scroll-proportion="0.7543353">
           <folding />
         </state>
       </provider>
