@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify" id="Electron shell Unbihexium" viewBox="-1100 -1100 2200 2200" width="2200" height="2200" inkscape:version="0.48.4 r9939" sodipodi:docname="Electron_shell_126_Unbihexium_-_no_label.svg" inkscape:export-filename="C:\Users\Chris\Google Drive\Gnome Labs\GNMLBS\sagaofsoul\Electron_shell_126_Unbihexium.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+  <metadata id="metadata153">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Electron shells for element: Z=126 Ubh (Unbihexium): 2,8,18,32,34,20,9,3</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1600" inkscape:window-height="837" id="namedview151" showgrid="false" inkscape:zoom="0.18074413" inkscape:cx="1196.3765" inkscape:cy="708.93172" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-maximized="1" inkscape:current-layer="Electron shell Unbihexium" />
+  <title id="title">Electron shells for element: Z=126 Ubh (Unbihexium): 2,8,18,32,34,20,9,3</title>
+  <desc id="element_description">126 Ubh (Unbihexium) Legend_color:#d1ddff</desc>
+  <desc id="element_electron_configuration">2,8,18,32,34,20,9,3</desc>
+  <defs id="defs6">
+    <circle id="electron" r="30" cx="0" cy="0" sodipodi:cx="0" sodipodi:cy="0" sodipodi:rx="30" sodipodi:ry="30" style="fill:#ffffff;stroke:#000000;stroke-width:5" />
+  </defs>
+  <circle fill="#d1ddff" r="200" stroke="#343434" stroke-width="10" id="circle9" style="fill:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+  <text style="font-size:150px;font-weight:normal;text-anchor:middle;-inkscape-font-specification:Helvetica;font-family:Helvetica;font-style:normal;font-stretch:normal;font-variant:normal" id="text13" font-size="150" y="52.990723" x="-3.2226563">126</text>
+  <g inkscape:groupmode="layer" id="layer1" inkscape:label="Orbit 1" style="display:inline">
+    <g id="g3276">
+      <use id="electron_0_shell_1" xlink:href="#electron" y="-300" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_1" xlink:href="#electron_0_shell_1" transform="scale(-1,-1)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="Orbit 2" style="display:inline">
+    <g id="g3265" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,-1.4431071e-6,-1.4431071e-6)">
+      <use id="electron_0_shell_2" xlink:href="#electron" y="-400" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_2" xlink:href="#electron_0_shell_2" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_2_shell_2" xlink:href="#electron_0_shell_2" transform="matrix(0,1,-1,0,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_3_shell_2" xlink:href="#electron_0_shell_2" transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_4_shell_2" xlink:href="#electron_0_shell_2" transform="scale(-1,-1)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_5_shell_2" xlink:href="#electron_0_shell_2" transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_6_shell_2" xlink:href="#electron_0_shell_2" transform="matrix(0,-1,1,0,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_7_shell_2" xlink:href="#electron_0_shell_2" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer3" inkscape:label="Orbit 3" style="display:inline">
+    <g id="g3372" transform="matrix(0.8660254,0.5,-0.5,0.8660254,0,0)">
+      <use id="electron_0_shell_3" xlink:href="#electron" y="-500" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.93969262,0.34202014,-0.34202014,0.93969262,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_2_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.76604444,0.64278761,-0.64278761,0.76604444,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_3_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.5,0.8660254,-0.8660254,0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_4_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.17364818,0.98480775,-0.98480775,0.17364818,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_5_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.17364818,0.98480775,-0.98480775,-0.17364818,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_6_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_7_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.76604444,0.64278761,-0.64278761,-0.76604444,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_8_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.93969262,0.34202014,-0.34202014,-0.93969262,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_9_shell_3" xlink:href="#electron_0_shell_3" transform="scale(-1,-1)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_10_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.93969262,-0.34202014,0.34202014,-0.93969262,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_11_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.76604444,-0.64278761,0.64278761,-0.76604444,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_12_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_13_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(-0.17364818,-0.98480775,0.98480775,-0.17364818,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_14_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.17364818,-0.98480775,0.98480775,0.17364818,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_15_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.5,-0.8660254,0.8660254,0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_16_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.76604444,-0.64278761,0.64278761,0.76604444,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_17_shell_3" xlink:href="#electron_0_shell_3" transform="matrix(0.93969262,-0.34202014,0.34202014,0.93969262,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer9" inkscape:label="Orbit 4" style="display:inline">
+    <g id="g4538" transform="matrix(0.99999516,-0.00311304,0.00311304,0.99999516,0,0)">
+      <use id="electron_0_shell_4" xlink:href="#electron" y="-600" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.98078528,0.19509032,-0.19509032,0.98078528,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_2_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.92387953,0.38268343,-0.38268343,0.92387953,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_3_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.83146961,0.55557023,-0.55557023,0.83146961,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_4_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_5_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.55557023,0.83146961,-0.83146961,0.55557023,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_6_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.38268343,0.92387953,-0.92387953,0.38268343,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_7_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.19509032,0.98078528,-0.98078528,0.19509032,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_8_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0,1,-1,0,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_9_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.19509032,0.98078528,-0.98078528,-0.19509032,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_10_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.38268343,0.92387953,-0.92387953,-0.38268343,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_11_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.55557023,0.83146961,-0.83146961,-0.55557023,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_12_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_13_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.83146961,0.55557023,-0.55557023,-0.83146961,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_14_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.92387953,0.38268343,-0.38268343,-0.92387953,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_15_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.98078528,0.19509032,-0.19509032,-0.98078528,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_16_shell_4" xlink:href="#electron_0_shell_4" transform="scale(-1,-1)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_17_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.98078528,-0.19509032,0.19509032,-0.98078528,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_18_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.92387953,-0.38268343,0.38268343,-0.92387953,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_19_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.83146961,-0.55557023,0.55557023,-0.83146961,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_20_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.70710678,-0.70710678,0.70710678,-0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_21_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.55557023,-0.83146961,0.83146961,-0.55557023,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_22_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.38268343,-0.92387953,0.92387953,-0.38268343,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_23_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(-0.19509032,-0.98078528,0.98078528,-0.19509032,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_24_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0,-1,1,0,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_25_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.19509032,-0.98078528,0.98078528,0.19509032,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_26_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.38268343,-0.92387953,0.92387953,0.38268343,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_27_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.55557023,-0.83146961,0.83146961,0.55557023,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_28_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_29_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.83146961,-0.55557023,0.55557023,0.83146961,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_30_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.92387953,-0.38268343,0.38268343,0.92387953,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_31_shell_4" xlink:href="#electron_0_shell_4" transform="matrix(0.98078528,-0.19509032,0.19509032,0.98078528,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer8" inkscape:label="Orbit 5" style="display:inline">
+    <g transform="matrix(0.8508563,-0.52539847,0.52539847,0.8508563,-1.9530967e-6,0)" id="g4117">
+      <use id="electron_0_shell_5" xlink:href="#electron" y="-700" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.98297321,0.18374891,-0.18374891,0.98297321,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_2_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.93247267,0.36124052,-0.36124052,0.93247267,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_3_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.85021811,0.52643059,-0.52643059,0.85021811,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_4_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.73901058,0.67369382,-0.67369382,0.73901058,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_5_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.60263709,0.79801537,-0.79801537,0.60263709,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_6_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.44574166,0.89516164,-0.89516164,0.44574166,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_7_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.27366714,0.96182446,-0.96182446,0.27366714,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_8_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.09227327,0.99573372,-0.99573372,0.09227327,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_9_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.09226284,0.99573469,-0.99573469,-0.09226284,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_10_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.27365707,0.96182733,-0.96182733,-0.27365707,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_11_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.44573229,0.89516631,-0.89516631,-0.44573229,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_12_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.60262874,0.79802168,-0.79802168,-0.60262874,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_13_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.73900352,0.67370156,-0.67370156,-0.73900352,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_14_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.8502126,0.5264395,-0.5264395,-0.8502126,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_15_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.93246889,0.36125028,-0.36125028,-0.93246889,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_16_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.98297129,0.18375921,-0.18375921,-0.98297129,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_17_shell_5" xlink:href="#electron_0_shell_5" transform="scale(-1,-1)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_18_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.98297321,-0.18374891,0.18374891,-0.98297321,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_19_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.93247267,-0.36124052,0.36124052,-0.93247267,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_20_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.85021811,-0.52643059,0.52643059,-0.85021811,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_21_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.73901058,-0.67369382,0.67369382,-0.73901058,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_22_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.60263709,-0.79801537,0.79801537,-0.60263709,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_23_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.44574166,-0.89516164,0.89516164,-0.44574166,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_24_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.27366714,-0.96182446,0.96182446,-0.27366714,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_25_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(-0.09227327,-0.99573372,0.99573372,-0.09227327,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_26_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.09226284,-0.99573469,0.99573469,0.09226284,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_27_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.27365707,-0.96182733,0.96182733,0.27365707,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_28_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.44573229,-0.89516631,0.89516631,0.44573229,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_29_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.60262874,-0.79802168,0.79802168,0.60262874,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_30_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.73900352,-0.67370156,0.67370156,0.73900352,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_31_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.8502126,-0.5264395,0.5264395,0.8502126,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_32_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.93246889,-0.36125028,0.36125028,0.93246889,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_33_shell_5" xlink:href="#electron_0_shell_5" transform="matrix(0.98297129,-0.18375921,0.18375921,0.98297129,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer7" inkscape:label="Orbit 6" style="display:inline">
+    <g id="g3975">
+      <use id="electron_0_shell_6" xlink:href="#electron" y="-800" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.95105652,0.30901699,-0.30901699,0.95105652,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_2_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.80901699,0.58778525,-0.58778525,0.80901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_3_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.58778525,0.80901699,-0.80901699,0.58778525,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_4_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_5_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0,1,-1,0,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_6_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.30901699,0.95105652,-0.95105652,-0.30901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_7_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.58778525,0.80901699,-0.80901699,-0.58778525,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_8_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.80901699,0.58778525,-0.58778525,-0.80901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_9_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.95105652,0.30901699,-0.30901699,-0.95105652,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_10_shell_6" xlink:href="#electron_0_shell_6" transform="scale(-1,-1)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_11_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.95105652,-0.30901699,0.30901699,-0.95105652,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_12_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.80901699,-0.58778525,0.58778525,-0.80901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_13_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.58778525,-0.80901699,0.80901699,-0.58778525,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_14_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(-0.30901699,-0.95105652,0.95105652,-0.30901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_15_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0,-1,1,0,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_16_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_17_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.58778525,-0.80901699,0.80901699,0.58778525,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_18_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.80901699,-0.58778525,0.58778525,0.80901699,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_19_shell_6" xlink:href="#electron_0_shell_6" transform="matrix(0.95105652,-0.30901699,0.30901699,0.95105652,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer6" inkscape:label="Orbit 7" style="display:inline">
+    <g id="g3747">
+      <use id="electron_0_shell_7" xlink:href="#electron" y="-900" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(0.76604444,0.64278761,-0.64278761,0.76604444,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_2_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(0.17364818,0.98480775,-0.98480775,0.17364818,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_3_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_4_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(-0.93969262,0.34202014,-0.34202014,-0.93969262,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_5_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(-0.93969262,-0.34202014,0.34202014,-0.93969262,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_6_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_7_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(0.17364818,-0.98480775,0.98480775,0.17364818,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_8_shell_7" xlink:href="#electron_0_shell_7" transform="matrix(0.76604444,-0.64278761,0.64278761,0.76604444,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer4" inkscape:label="Orbit 8" style="display:inline">
+    <g id="g3707">
+      <use id="electron_0_shell_8" xlink:href="#electron" y="-1000" style="fill:none;stroke:#77868b;stroke-width:8" x="0" width="2200" height="2200" />
+      <use id="electron_1_shell_8" xlink:href="#electron_0_shell_8" transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+      <use id="electron_2_shell_8" xlink:href="#electron_0_shell_8" transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,0,0)" style="fill:none;stroke:#77868b;stroke-width:8" x="0" y="0" width="2200" height="2200" />
+    </g>
+  </g>
+</svg>
