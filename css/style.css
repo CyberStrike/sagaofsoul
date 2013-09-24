@@ -1,0 +1,227 @@
+/* line 2, ../pre/style.sass */
+body {
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+/* line 5, ../pre/style.sass */
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+/* line 9, ../pre/style.sass */
+h1, h2 {
+  margin-bottom: 0.5em;
+}
+
+/* line 13, ../pre/style.sass */
+h1, h2, :before {
+  margin-top: 0.65em;
+}
+
+/* line 17, ../pre/style.sass */
+.texthead {
+  font-size: 1.5em;
+  letter-spacing: 10px;
+}
+
+/* line 21, ../pre/style.sass */
+.texthead a {
+  color: black;
+}
+
+/* line 24, ../pre/style.sass */
+#header2 nav {
+  z-index: 1;
+  border-bottom: 1px solid #cccccc;
+  border-top: 1px solid #cccccc;
+}
+
+/* line 29, ../pre/style.sass */
+#Grid {
+  margin: 0;
+  padding: 15px 0 0 0;
+  text-align: justify;
+  font-size: 1em;
+}
+
+/* line 35, ../pre/style.sass */
+#Grid li {
+  display: inline-block;
+  width: 19%;
+  text-align: center;
+}
+
+/* line 40, ../pre/style.sass */
+#Grid li a {
+  letter-spacing: 1.5px;
+  color: #cccccc;
+  transition: color 0.2s;
+  -webkit-transition: color 0.2s;
+  -moz-transition: color 0.2s;
+  -ms-transition: color 0.2s;
+  -o-transition: color 0.2s;
+}
+
+/* line 49, ../pre/style.sass */
+#Grid li a:hover {
+  color: black;
+}
+
+/* line 52, ../pre/style.sass */
+#Grid:after {
+  content: "";
+  display: inline-block;
+  width: 100%;
+}
+
+/* line 57, ../pre/style.sass */
+#Grid .placeholder {
+  padding: 0;
+  margin: 0;
+  display: none;
+}
+
+/* -- MEDIA QUERIES DEFINING RESPONSIVE LAYOUTS -- */
+/* 3 COL */
+@media (max-width: 800px) {
+  /* line 67, ../pre/style.sass */
+  #Grid li {
+    width: 31%;
+    padding-top: 10%;
+    margin-bottom: 3%;
+  }
+}
+/* 2 COL */
+@media (max-width: 600px) {
+  /* line 76, ../pre/style.sass */
+  #Grid li {
+    width: 48;
+    padding-top: 48%;
+    margin-bottom: 4%;
+  }
+}
+/* SINGLE COL */
+@media (max-width: 400px) {
+  /* line 84, ../pre/style.sass */
+  #Grid li {
+    width: 100%;
+    padding-top: 100%;
+    margin-bottom: 5%;
+  }
+}
+/* line 91, ../pre/style.sass */
+#header1 {
+  position: relative;
+  z-index: 1;
+  padding-top: 1.5em;
+  margin-bottom: 3.5em;
+  border-bottom: 1px solid #cccccc;
+  padding-bottom: 1.5em;
+}
+
+/* line 99, ../pre/style.sass */
+#header1 nav {
+  top: 0;
+  position: absolute;
+  right: 0;
+}
+
+/* line 105, ../pre/style.sass */
+.textlogo a {
+  color: #222222;
+}
+
+/* line 108, ../pre/style.sass */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  width: 90%;
+  position: relative;
+}
+
+/* line 114, ../pre/style.sass */
+#header1 nav ul li {
+  padding: 0 25px 0 25px;
+  display: inline-block;
+  vertical-align: baseline;
+}
+
+/* line 119, ../pre/style.sass */
+#header1 nav ul li:first-of-type {
+  padding-left: 0;
+}
+
+/* line 122, ../pre/style.sass */
+#header1 nav ul li:last-of-type {
+  padding-right: 0;
+}
+
+/* line 125, ../pre/style.sass */
+#header1 nav ul li a {
+  margin-left: 1em;
+  color: #cccccc;
+  letter-spacing: 1px;
+  transition: color 0.2s;
+  -webkit-transition: color 0.2s;
+  -moz-transition: color 0.2s;
+  -ms-transition: color 0.2s;
+  -o-transition: color 0.2s;
+}
+
+/* line 135, ../pre/style.sass */
+#header1 nav ul li a:hover {
+  color: #222222;
+}
+
+/* line 138, ../pre/style.sass */
+#header1 nav ul li a:active {
+  color: #222222;
+}
+
+/* line 141, ../pre/style.sass */
+.chapter-body {
+  max-width: 42em;
+  margin: 5em auto 5em auto;
+}
+
+/* line 145, ../pre/style.sass */
+.chapter-body p {
+  text-align: justify;
+  line-height: 140%;
+}
+
+/* line 149, ../pre/style.sass */
+.section p:first-of-type {
+  text-indent: 25px;
+}
+
+/* line 152, ../pre/style.sass */
+.title {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  text-align: center;
+  padding-top: 10px;
+}
+
+/* line 159, ../pre/style.sass */
+.toggle {
+  background: white;
+  border: 1px solid black;
+  z-index: 10;
+  cursor: auto;
+}
+
+/* line 164, ../pre/style.sass */
+footer {
+  text-align: center;
+}
+
+/* line 171, ../pre/style.sass */
+.textCenter {
+  text-align: center;
+}
+
+/* line 174, ../pre/style.sass */
+.lowerCase {
+  text-transform: none;
+}

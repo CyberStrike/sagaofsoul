@@ -36,6 +36,7 @@
 .Trashes
 .idea/*
 .htaccess
+.sass-cache/*
 ehthumbs.db
 Thumbs.db
 desktop.ini
