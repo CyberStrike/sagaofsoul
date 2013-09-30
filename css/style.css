@@ -31,7 +31,7 @@ h1, h2, :before {
 }
 
 /* line 24, ../pre/style.sass */
-#header2 nav {
+#header nav {
   z-index: 1;
   border-bottom: 1px solid #cccccc;
   border-top: 1px solid #cccccc;
@@ -87,8 +87,8 @@ h1, h2, :before {
 @media (max-width: 800px) {
   /* line 67, ../pre/style.sass */
   #Grid li {
-    width: 31%;
-    padding-top: 10%;
+    width: 8em;
+    padding-top: 3%;
     margin-bottom: 3%;
   }
 }
@@ -96,8 +96,8 @@ h1, h2, :before {
 @media (max-width: 600px) {
   /* line 76, ../pre/style.sass */
   #Grid li {
-    width: 48;
-    padding-top: 48%;
+    width: 10em;
+    padding-top: 0;
     margin-bottom: 4%;
   }
 }
@@ -106,33 +106,16 @@ h1, h2, :before {
   /* line 84, ../pre/style.sass */
   #Grid li {
     width: 100%;
-    padding-top: 100%;
+    padding-top: 1%;
     margin-bottom: 5%;
   }
 }
-/* line 91, ../pre/style.sass */
-#header1 {
-  position: relative;
-  z-index: 1;
-  padding-top: 1.5em;
-  margin-bottom: 3.5em;
-  border-bottom: 1px solid #cccccc;
-  padding-bottom: 1.5em;
-}
-
-/* line 99, ../pre/style.sass */
-#header1 nav {
-  top: 0;
-  position: absolute;
-  right: 0;
-}
-
-/* line 105, ../pre/style.sass */
+/* line 93, ../pre/style.sass */
 .textlogo a {
   color: #222222;
 }
 
-/* line 108, ../pre/style.sass */
+/* line 96, ../pre/style.sass */
 .container {
   max-width: 960px;
   margin: 0 auto;
@@ -140,70 +123,32 @@ h1, h2, :before {
   position: relative;
 }
 
-/* line 114, ../pre/style.sass */
-#header1 nav ul li {
-  padding: 0 25px 0 25px;
-  display: inline-block;
-  vertical-align: baseline;
-}
-
-/* line 119, ../pre/style.sass */
-#header1 nav ul li:first-of-type {
-  padding-left: 0;
-}
-
-/* line 122, ../pre/style.sass */
-#header1 nav ul li:last-of-type {
-  padding-right: 0;
-}
-
-/* line 125, ../pre/style.sass */
-#header1 nav ul li a {
-  margin-left: 1em;
-  color: #cccccc;
-  letter-spacing: 1px;
-  transition: color 0.2s;
-  -webkit-transition: color 0.2s;
-  -moz-transition: color 0.2s;
-  -ms-transition: color 0.2s;
-  -o-transition: color 0.2s;
-}
-
-/* line 135, ../pre/style.sass */
-#header1 nav ul li a:hover {
-  color: #222222;
-}
-
-/* line 138, ../pre/style.sass */
-#header1 nav ul li a:active {
-  color: #222222;
-}
-
-/* line 141, ../pre/style.sass */
+/* line 102, ../pre/style.sass */
 .chapter-body {
   max-width: 42em;
-  margin: 5em auto 5em auto;
+  margin: 5em auto 0 auto;
+  padding: 0 1em 0 1em;
 }
 
-/* line 145, ../pre/style.sass */
+/* line 107, ../pre/style.sass */
 .chapter-body p {
   text-align: justify;
   line-height: 140%;
 }
 
-/* line 149, ../pre/style.sass */
+/* line 111, ../pre/style.sass */
 .section p:first-of-type {
   text-indent: 25px;
 }
 
-/* line 152, ../pre/style.sass */
+/* line 114, ../pre/style.sass */
 .title {
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   text-align: center;
   padding-top: 10px;
 }
 
-/* line 159, ../pre/style.sass */
+/* line 121, ../pre/style.sass */
 .toggle {
   background: white;
   border: 1px solid black;
@@ -211,17 +156,110 @@ h1, h2, :before {
   cursor: auto;
 }
 
-/* line 164, ../pre/style.sass */
+/* line 126, ../pre/style.sass */
 footer {
   text-align: center;
 }
 
-/* line 171, ../pre/style.sass */
+/* line 130, ../pre/style.sass */
+.bottomnav {
+  max-width: 42em;
+  margin: 10px auto;
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+
+/* line 137, ../pre/style.sass */
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+/* line 156, ../pre/style.sass */
+.btn-default {
+  color: #333333;
+  background-color: white;
+  border-color: #cccccc;
+}
+
+/* line 162, ../pre/style.sass */
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
+  color: #333333;
+  background-color: #ebebeb;
+  border-color: #adadad;
+}
+
+/* line 167, ../pre/style.sass */
+.btn-group {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* line 172, ../pre/style.sass */
+.btn-group > .btn:first-child {
+  margin-left: 0;
+}
+
+/* line 175, ../pre/style.sass */
+.btn-group > .btn:first-child:not(:last-child) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+/* line 179, ../pre/style.sass */
+.btn-group > .btn:not(:first-child):not(:last-child) {
+  border-radius: 0;
+}
+
+/* line 182, ../pre/style.sass */
+.btn-group > .btn:last-child:not(:first-child) {
+  border-bottom-left-radius: 0;
+  border-top-left-radius: 0;
+}
+
+/* line 187, ../pre/style.sass */
+.btn-group > .btn {
+  position: relative;
+  float: left;
+}
+
+/* line 191, ../pre/style.sass */
+.btn-group-justified {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  table-layout: fixed;
+}
+
+/* line 197, ../pre/style.sass */
+.btn-group-justified .btn {
+  display: table-cell;
+  float: none;
+  width: 1%;
+}
+
+/* line 205, ../pre/style.sass */
 .textCenter {
   text-align: center;
 }
 
-/* line 174, ../pre/style.sass */
+/* line 208, ../pre/style.sass */
 .lowerCase {
   text-transform: none;
 }
