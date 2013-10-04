@@ -37,6 +37,7 @@
 .idea/*
 .htaccess
 .sass-cache/*
+/pre
 ehthumbs.db
 Thumbs.db
 desktop.ini

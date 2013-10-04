@@ -14,12 +14,29 @@ h1,h2,:before
   margin-top: 0.65em
 
 
+.fleuron:before
+  content: "§§§"
+  display: block
+  text-align: center
+  font-size: 1.5em
+  margin-bottom: -0.90em
+
+.fleuron
+  margin: 0.75em
+
 .texthead
   font-size: 1.5em
   letter-spacing: 10px
 
 .texthead a
   color: #000000
+
+.title
+  font-family: Copperplate, "Copperplate Gothic Light", "Copperplate Gothic", fantasy, serif
+  text-align: center
+  padding-top: 10px
+
+//Nav Ahoy
 
 #header nav
   z-index: 1
@@ -59,39 +76,7 @@ h1,h2,:before
   margin: 0
   display: none
 
-/* -- MEDIA QUERIES DEFINING RESPONSIVE LAYOUTS -- */
 
-/* 3 COL */
-
-@media (max-width: 800px)
-  #Grid li
-    width: 8em
-    padding-top: 3%
-    margin-bottom: 3%
-
-
-/* 2 COL */
-
-@media (max-width: 600px)
-  #Grid li
-    width: 10em
-    padding-top: 0
-    margin-bottom: 4%
-
-/* SINGLE COL */
-
-@media (max-width: 400px)
-  #Grid li
-    width: 100%
-    padding-top: 1%
-    margin-bottom: 5%
-
-
-
-
-
-.textlogo a
-  color: #222222
 
 .container
   max-width: 960px
@@ -111,18 +96,13 @@ h1,h2,:before
 .section p:first-of-type
   text-indent: 25px
 
-.title
-  font-family: Copperplate, "Copperplate Gothic Light", fantasy
-  text-align: center
-  padding-top: 10px
-
-
 
 .toggle
   background: #fff
   border: 1px solid #000
   z-index: 10
   cursor: auto
+
 footer
   text-align: center
 
@@ -132,6 +112,7 @@ footer
   margin: 10px auto
   margin-bottom: 3em
   margin-top: 3em
+
 //Unshamelessy Pulled from BS
 
 .btn
@@ -145,8 +126,9 @@ footer
   white-space: nowrap
   vertical-align: middle
   cursor: pointer
-  border: 1px solid transparent
-  border-radius: 4px
+  border:
+    top: 1px solid rgb(204, 204, 204)
+    bottom: 1px solid rgb(204, 204, 204)
   -webkit-user-select: none
   -moz-user-select: none
   -ms-user-select: none
@@ -172,16 +154,16 @@ footer
 .btn-group>.btn:first-child
   margin-left: 0
 
-.btn-group>.btn:first-child:not(:last-child)
-  border-top-right-radius: 0
-  border-bottom-right-radius: 0
-
-.btn-group > .btn:not(:first-child):not(:last-child)
-  border-radius: 0
-
-.btn-group>.btn:last-child:not(:first-child)
-  border-bottom-left-radius: 0
-  border-top-left-radius: 0
+//.btn-group>.btn:first-child:not(:last-child)
+//  border-top-right-radius: 0
+//  border-bottom-right-radius: 0
+//
+//.btn-group > .btn:not(:first-child):not(:last-child)
+//  border-radius: 0
+//
+//.btn-group>.btn:last-child:not(:first-child)
+//  border-bottom-left-radius: 0
+//  border-top-left-radius: 0
 
 
 .btn-group>.btn
@@ -207,3 +189,32 @@ footer
 
 .lowerCase
   text-transform: none
+
+
+/* -- MEDIA QUERIES DEFINING RESPONSIVE LAYOUTS -- */
+
+@media (max-width: 800px)
+  .texthead
+    font-size: 1.5em
+
+  #Grid li
+    width: 7em
+    padding-top: 3%
+    margin-bottom: 3%
+
+@media (max-width: 600px)
+  #Grid li
+    width: 10em
+    padding-top: 0
+    margin-bottom: 4%
+
+
+/* SINGLE COL */
+
+@media (max-width: 400px)
+  #Grid li
+    width: 100%
+    padding-top: 1%
+    margin-bottom: 5%
+  .texthead
+    font-size: 1em
