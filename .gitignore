@@ -53,9 +53,12 @@ lib-cov
 *.pid
 *.gz
 
+
 pids
 logs
 results
 
 npm-debug.log
 node_modules
+package.json
+server.js
