@@ -1,5 +1,6 @@
 
 body
+  font-size:  16px
   font-family: Georgia, Times, "Times New Roman", serif
 
 a
@@ -12,17 +13,6 @@ h1,h2
 
 h1,h2,:before
   margin-top: 0.65em
-
-
-.fleuron:before
-  content: "§§§"
-  display: block
-  text-align: center
-  font-size: 1.5em
-  margin-bottom: -0.90em
-
-.fleuron
-  margin: 0.75em
 
 .texthead
   font-size: 1.5em
@@ -91,7 +81,7 @@ h1,h2,:before
 
 .chapter-body p
   text-align: justify
-  line-height: 140%
+  line-height: 1.5rem
 
 .section p:first-of-type
   text-indent: 25px
@@ -182,13 +172,26 @@ footer
   width: 1%
 
 
-// Utilities
+// UTILITIES //
 
 .textCenter
   text-align: center
 
 .lowerCase
   text-transform: none
+
+// Fleuron
+
+.fleuron:before
+  content: "§§§"
+  display: block
+  text-align: center
+  font-size: 1.5em
+  margin-bottom: -0.90em
+
+.fleuron
+  margin: 0.75em
+
 
 
 /* -- MEDIA QUERIES DEFINING RESPONSIVE LAYOUTS -- */

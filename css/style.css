@@ -1,156 +1,101 @@
-/* line 2, ../pre/style.sass */
+@charset "UTF-8";
 body {
-  font-family: Georgia, Times, "Times New Roman", serif;
-}
+  font-size: 16px;
+  font-family: Georgia, Times, "Times New Roman", serif; }
 
-/* line 5, ../pre/style.sass */
 a {
   text-decoration: none;
-  text-transform: uppercase;
-}
+  text-transform: uppercase; }
 
-/* line 9, ../pre/style.sass */
 h1, h2 {
-  margin-bottom: 0.5em;
-}
+  margin-bottom: 0.5em; }
 
-/* line 13, ../pre/style.sass */
 h1, h2, :before {
-  margin-top: 0.65em;
-}
+  margin-top: 0.65em; }
 
-/* line 17, ../pre/style.sass */
-.fleuron:before {
-  content: "§§§";
-  display: block;
-  text-align: center;
-  font-size: 1.5em;
-  margin-bottom: -0.9em;
-}
-
-/* line 24, ../pre/style.sass */
-.fleuron {
-  margin: 0.75em;
-}
-
-/* line 27, ../pre/style.sass */
 .texthead {
   font-size: 1.5em;
-  letter-spacing: 10px;
-}
+  letter-spacing: 10px; }
 
-/* line 31, ../pre/style.sass */
 .texthead a {
-  color: black;
-}
+  color: #000000; }
 
-/* line 34, ../pre/style.sass */
 .title {
   font-family: Copperplate, "Copperplate Gothic Light", "Copperplate Gothic", fantasy, serif;
   text-align: center;
-  padding-top: 10px;
-}
+  padding-top: 10px; }
 
-/* line 41, ../pre/style.sass */
 #header nav {
   z-index: 1;
-  border-bottom: 1px solid #cccccc;
-  border-top: 1px solid #cccccc;
-}
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc; }
 
-/* line 46, ../pre/style.sass */
 #Grid {
   margin: 0;
   padding: 15px 0 0 0;
   text-align: justify;
-  font-size: 1em;
-}
+  font-size: 1em; }
 
-/* line 52, ../pre/style.sass */
 #Grid li {
   display: inline-block;
   width: 19%;
-  text-align: center;
-}
+  text-align: center; }
 
-/* line 57, ../pre/style.sass */
 #Grid li a {
   letter-spacing: 1.5px;
-  color: #cccccc;
+  color: #ccc;
   transition: color 0.2s;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
   -ms-transition: color 0.2s;
-  -o-transition: color 0.2s;
-}
+  -o-transition: color 0.2s; }
 
-/* line 66, ../pre/style.sass */
 #Grid li a:hover {
-  color: black;
-}
+  color: #000; }
 
-/* line 69, ../pre/style.sass */
 #Grid:after {
   content: "";
   display: inline-block;
-  width: 100%;
-}
+  width: 100%; }
 
-/* line 74, ../pre/style.sass */
 #Grid .placeholder {
   padding: 0;
   margin: 0;
-  display: none;
-}
+  display: none; }
 
-/* line 81, ../pre/style.sass */
 .container {
   max-width: 960px;
   margin: 0 auto;
   width: 90%;
-  position: relative;
-}
+  position: relative; }
 
-/* line 87, ../pre/style.sass */
 .chapter-body {
   max-width: 42em;
   margin: 5em auto 0 auto;
-  padding: 0 1em 0 1em;
-}
+  padding: 0 1em 0 1em; }
 
-/* line 92, ../pre/style.sass */
 .chapter-body p {
   text-align: justify;
-  line-height: 140%;
-}
+  line-height: 1.5rem; }
 
-/* line 96, ../pre/style.sass */
 .section p:first-of-type {
-  text-indent: 25px;
-}
+  text-indent: 25px; }
 
-/* line 100, ../pre/style.sass */
 .toggle {
-  background: white;
-  border: 1px solid black;
+  background: #fff;
+  border: 1px solid #000;
   z-index: 10;
-  cursor: auto;
-}
+  cursor: auto; }
 
-/* line 106, ../pre/style.sass */
 footer {
-  text-align: center;
-}
+  text-align: center; }
 
-/* line 110, ../pre/style.sass */
 .bottomnav {
   max-width: 42em;
   margin: 10px auto;
   margin-bottom: 3em;
-  margin-top: 3em;
-}
+  margin-top: 3em; }
 
-/* line 118, ../pre/style.sass */
 .btn {
   display: inline-block;
   padding: 6px 12px;
@@ -168,99 +113,79 @@ footer {
   -moz-user-select: none;
   -ms-user-select: none;
   -o-user-select: none;
-  user-select: none;
-}
+  user-select: none; }
 
-/* line 138, ../pre/style.sass */
 .btn-default {
   color: #333333;
-  background-color: white;
-  border-color: #cccccc;
-}
+  background-color: #ffffff;
+  border-color: #cccccc; }
 
-/* line 144, ../pre/style.sass */
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
   color: #333333;
   background-color: #ebebeb;
-  border-color: #adadad;
-}
+  border-color: #adadad; }
 
-/* line 149, ../pre/style.sass */
 .btn-group {
   position: relative;
   display: inline-block;
-  vertical-align: middle;
-}
+  vertical-align: middle; }
 
-/* line 154, ../pre/style.sass */
 .btn-group > .btn:first-child {
-  margin-left: 0;
-}
+  margin-left: 0; }
 
-/* line 169, ../pre/style.sass */
 .btn-group > .btn {
   position: relative;
-  float: left;
-}
+  float: left; }
 
-/* line 173, ../pre/style.sass */
 .btn-group-justified {
   display: table;
   width: 100%;
   border-collapse: separate;
-  table-layout: fixed;
-}
+  table-layout: fixed; }
 
-/* line 179, ../pre/style.sass */
 .btn-group-justified .btn {
   display: table-cell;
   float: none;
-  width: 1%;
-}
+  width: 1%; }
 
-/* line 187, ../pre/style.sass */
 .textCenter {
-  text-align: center;
-}
+  text-align: center; }
 
-/* line 190, ../pre/style.sass */
 .lowerCase {
-  text-transform: none;
-}
+  text-transform: none; }
+
+.fleuron:before {
+  content: "§§§";
+  display: block;
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: -0.9em; }
+
+.fleuron {
+  margin: 0.75em; }
 
 /* -- MEDIA QUERIES DEFINING RESPONSIVE LAYOUTS -- */
 @media (max-width: 800px) {
-  /* line 197, ../pre/style.sass */
   .texthead {
-    font-size: 1.5em;
-  }
+    font-size: 1.5em; }
 
-  /* line 200, ../pre/style.sass */
   #Grid li {
     width: 7em;
     padding-top: 3%;
-    margin-bottom: 3%;
-  }
-}
+    margin-bottom: 3%; } }
 @media (max-width: 600px) {
-  /* line 206, ../pre/style.sass */
   #Grid li {
     width: 10em;
     padding-top: 0;
-    margin-bottom: 4%;
-  }
-}
+    margin-bottom: 4%; } }
 /* SINGLE COL */
 @media (max-width: 400px) {
-  /* line 215, ../pre/style.sass */
   #Grid li {
     width: 100%;
     padding-top: 1%;
-    margin-bottom: 5%;
-  }
+    margin-bottom: 5%; }
 
-  /* line 219, ../pre/style.sass */
   .texthead {
-    font-size: 1em;
-  }
-}
+    font-size: 1em; } }
+
+/*# sourceMappingURL=style.css.map */
